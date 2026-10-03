@@ -1,10 +1,4 @@
 package main
-
-import (
-	"fmt"
-	"strconv"
-)
-
 // Константы для систем счисления
 const (
 	bin = 2
