@@ -1,11 +1,4 @@
 package main
-
-import (
-	"errors"
-	"fmt"
-	"strings"
-)
-
 // Функция проверки, как в задании
 func validateUser(name string, age int, email string) error {
 	if name == "" {
