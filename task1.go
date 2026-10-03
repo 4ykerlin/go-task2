@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 func main() {
 	// Стоимость проживания
 	const rabochiedni = 2100
