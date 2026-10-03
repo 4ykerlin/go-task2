@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 // Тип номера
 type RoomType string
 
