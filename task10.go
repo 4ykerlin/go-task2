@@ -1,10 +1,4 @@
 package main
-
-import (
-	"fmt"
-	"strings"
-)
-
 type TextStats struct {
 	Simvoly      int
 	Slova        int
