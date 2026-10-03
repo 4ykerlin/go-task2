@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 // 1. Структура для лога
 type LogZapis struct {
 	IPaddress string
