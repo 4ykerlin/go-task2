@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 type InventoryItem struct {
 	Name        string
 	Weight      float64
