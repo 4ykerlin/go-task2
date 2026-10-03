@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 // 1. Структура для сотрудника
 type Sotrudnik struct {
 	ID       int
