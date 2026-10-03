@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 func main() {
 	// Карта трат по категориям
 	trakom := map[string]float64{
