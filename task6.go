@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 // Функция собирает уникальные теги
 func soberiTegi(vsePosti [][]string) []string {
 	// Карта для проверки уникальности
