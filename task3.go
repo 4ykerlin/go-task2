@@ -1,10 +1,4 @@
 package main
-
-import (
-	"fmt"
-)
-
-
 type Order struct {
 	ID          int    
 	Items       []int  
