@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 func main() {
 	// создаем переменные для каждого веса
 	var osnovnoibagah float64
