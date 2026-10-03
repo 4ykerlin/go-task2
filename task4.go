@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 // Функция, которая считает голоса
 func podschetGolosov(golosa []string) {
 	// Создаем переменные-счетчики для каждого кандидата
