@@ -1,7 +1,4 @@
 package main
-
-import "fmt"
-
 type Product struct {
 	Name     string
 	Category string
